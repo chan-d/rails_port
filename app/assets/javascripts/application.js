@@ -7,6 +7,7 @@
 //= require angular-resource
 //= require angular-rails-templates
 
+
 // Templates in app/assets/templates
 //= require_tree ../templates
 //= require profile.module
